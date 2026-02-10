@@ -31,7 +31,8 @@ I enjoy transforming complex data into clear insights that support business deci
 - Used slicers for department, date, and risk-level analysis  
 - Cleaned and transformed data using Power Query  
 
-🔗 Project link: rajamrars-code/CYBER-SECURITY-ANALYSIS
+
+
 
 ---
 
@@ -41,7 +42,7 @@ I enjoy transforming complex data into clear insights that support business deci
 - Cleaned and transformed data for analysis and dashboards  
 - Built Power BI dashboards showing pricing trends, ratings, and KPIs  
 
-🔗 Project link: rajamrars-code/FlIPKART-DATA-ANALYSIS
+
 
 ---
 
@@ -50,7 +51,8 @@ I enjoy transforming complex data into clear insights that support business deci
 - Built multiple ML models achieving up to 95% accuracy  
 - Performed feature engineering, tuning, and evaluation  
 
-🔗 Project link: *(Add folder link)*
+
+
 
 ---
 
