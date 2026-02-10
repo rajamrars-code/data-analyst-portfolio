@@ -31,8 +31,7 @@ I enjoy transforming complex data into clear insights that support business deci
 - Used slicers for department, date, and risk-level analysis  
 - Cleaned and transformed data using Power Query  
 
-
-
+🔗 Project link: https://github.com/rajamrars-code/data-analyst-portfolio/tree/main/Cyber_Security_Analysis_Dashboard
 
 ---
 
@@ -42,7 +41,7 @@ I enjoy transforming complex data into clear insights that support business deci
 - Cleaned and transformed data for analysis and dashboards  
 - Built Power BI dashboards showing pricing trends, ratings, and KPIs  
 
-
+🔗 Project link: https://github.com/rajamrars-code/data-analyst-portfolio/tree/main/Flipkart_Product_Data_Analysis
 
 ---
 
@@ -51,8 +50,7 @@ I enjoy transforming complex data into clear insights that support business deci
 - Built multiple ML models achieving up to 95% accuracy  
 - Performed feature engineering, tuning, and evaluation  
 
-
-
+🔗 Project link: https://github.com/rajamrars-code/data-analyst-portfolio/tree/main/Emergency_Vehicle_Detection
 
 ---
 
@@ -62,7 +60,8 @@ I enjoy transforming complex data into clear insights that support business deci
 - Reduced manual effort by 90%  
 - Built sentiment classification pipeline improving accuracy by 20%  
 
-🔗 Project link: *(Add folder link)*
+🔗 Project link: https://github.com/rajamrars-code/data-analyst-portfolio/tree/main/Sentiment_Analysis_Car_Reviews
+
 
 ---
 
