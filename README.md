@@ -87,4 +87,4 @@ Percentage: 87%
 ---
 
 ## 📄 Resume
-📥 Resume available on request / will be added soon
+📥 [Resume available on request / will be added soon](https://drive.google.com/file/d/1EqzJnsTJ4xgaMJGLr0XF1uYvBIyqvuDR/view?usp=sharing)
